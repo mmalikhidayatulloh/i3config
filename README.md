@@ -13,3 +13,4 @@ my configurations and customizations for i3 window manager and can use with KDE 
 * dmenu
 * Rofi
 * conky
+* rxvt-unicode
