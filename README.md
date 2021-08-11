@@ -1,3 +1,7 @@
+# Preview
+
+![Screenshot_20210812_004105.png](Screenshot_20210812_004105.png)
+
 # i3config
 my configurations and customizations for i3 window manager and can use with KDE Plasma
 
